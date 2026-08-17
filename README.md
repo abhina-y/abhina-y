@@ -140,7 +140,6 @@ Applies image preprocessing and data augmentation to MRI scans, with transfer le
 
 - Advanced Backend Engineering & System Design
 - Generative AI & LLM Applications
-- Machine Learning Deployment
 - Cloud Technologies
 - Scalable API Architecture
 - Distributed Systems Fundamentals
