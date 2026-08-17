@@ -157,13 +157,11 @@ Actively practicing Data Structures & Algorithms in **C++**, including:
 
 <p align="center">
   <a href="https://leetcode.com/u/Abhinay3180/">
-    <img src="https://leetcard.jacoblin.cool/Abhinay3180?theme=light&font=baloo2&ext=heatmap" alt="Abhinay3180 LeetCode Stats" />
+    <img src="https://img.shields.io/badge/LeetCode-Abhinay3180-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile"/>
   </a>
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/u/Abhinay3180/"><img src="https://img.shields.io/badge/LeetCode-Abhinay3180-FFA116?style=flat&logo=leetcode&logoColor=white" /></a>
-  <a href="https://www.codechef.com/users/abhin_ay"><img src="https://img.shields.io/badge/CodeChef-abhin__ay-5B4638?style=flat&logo=codechef&logoColor=white" /></a>
+  <a href="https://www.codechef.com/users/abhin_ay">
+    <img src="https://img.shields.io/badge/CodeChef-abhin__ay-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Profile"/>
+  </a>
 </p>
 
 ---
