@@ -196,6 +196,6 @@ Actively practicing Data Structures & Algorithms in **C++**, including:
 ## 💭 Random Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" alt="Random Dev Quote"/>
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight" alt="Random Dev Quote"/>
 </p>
 
