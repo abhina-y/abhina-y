@@ -14,6 +14,7 @@
   <a href="mailto:abhinay.soft06@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://leetcode.com/u/Abhinay3180/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" /></a>
   <a href="https://www.codechef.com/users/abhin_ay"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white" /></a>
+  <a href="https://www.geeksforgeeks.org/profile/abhinau5xk?tab=activity"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white" /></a>
 </p>
 
 ---
