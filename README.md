@@ -153,7 +153,7 @@ Actively practicing Data Structures & Algorithms in **C++**, including:
 `Arrays` `Binary Search` `Trees` `Graphs` `Dynamic Programming` `Greedy Algorithms` `Shortest Path` `MST` `DSU` `Tries` `Recursion & Backtracking`
 
 - 🏆 **3-Star Rating on CodeChef** — demonstrating proficiency in competitive programming
-- ✅ **700+ problems solved** across LeetCode, GeeksforGeeks, and Coding Ninjas
+- ✅ **700+ problems solved** across LeetCode, GeeksforGeeks, Coding Ninjas, and other platforms
 
 <p align="center">
   <a href="https://leetcode.com/u/Abhinay3180/">
@@ -161,6 +161,9 @@ Actively practicing Data Structures & Algorithms in **C++**, including:
   </a>
   <a href="https://www.codechef.com/users/abhin_ay">
     <img src="https://img.shields.io/badge/CodeChef-abhin__ay-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Profile"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/abhinau5xk?tab=activity">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-abhinau5xk-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Profile"/>
   </a>
 </p>
 
