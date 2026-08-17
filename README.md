@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/abhina-y">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=2F80ED&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Abhinay+Srivastava;Software+Engineer+%7C+Backend+Developer;Machine+Learning+%7C+Generative+AI;Building+real-world+software%2C+end-to-end" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2F80ED&center=true&vCenter=true&width=800&height=50&lines=Hi%2C+I'm+Abhinay+Srivastava;Software+Engineer+%7C+Backend+Developer;Machine+Learning+%7C+Generative+AI;Turning+ideas+into+real-world+software" alt="Typing SVG" />
   </a>
 </p>
 
