@@ -83,6 +83,17 @@ I also spend time strengthening my fundamentals in **Data Structures & Algorithm
 
 ## ⭐ Featured Projects
 
+### 🧠 Nexus — AI Knowledge Assistant
+> An AI-powered knowledge assistant that transforms documents and multimedia content into structured insights and source-grounded answers.
+
+Implements an end-to-end **Retrieval-Augmented Generation (RAG)** pipeline using LangChain, ChromaDB, embeddings, and Mistral AI for semantic search and context-aware question answering. Generates executive summaries, action items, key decisions, and open questions, with **Whisper-based speech-to-text**, multi-source content processing, and a **BYOK architecture**. Deployed on Streamlit Community Cloud.
+
+**Tech:** `Python` `LangChain` `Mistral AI` `ChromaDB` `Streamlit`
+
+[Live Demo →](https://nexus-ai-knowledge-assistant.streamlit.app/) | [View Repository →](https://github.com/abhina-y/nexus-ai-knowledge-assistant)
+
+---
+
 ### 🏦 Ledger-Based Banking System
 > A backend-focused banking application built around ledger-based, double-entry accounting.
 
